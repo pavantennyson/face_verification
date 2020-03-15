@@ -23,6 +23,6 @@ This is a face verification project which is similar to face unlock in mobile an
  
  ## References
  
- [How to Perform Face Recognition With VGGFace2 in Keras](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
- [OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
- [keras-vggface](https://github.com/rcmalli/keras-vggface)
+ * [How to Perform Face Recognition With VGGFace2 in Keras](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
+ * [OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+ * [keras-vggface](https://github.com/rcmalli/keras-vggface)
